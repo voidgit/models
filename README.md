@@ -25,7 +25,7 @@ Model was trained for 1-2h. Should be trained at much more. Please check links a
 	MD5: 35b86a7a57358dafb24f9fce1bb43871
 	SHA-1: 11f157a68bfb22673185698d5e0a26a2fcbe5c0b)
 * To continue training model 'python ./translate.py  --en_vocab_size=40000 --fr_vocab_size=40000 --data_dir=./train --train_dir=./train'
-* To run model (it was not trained enough so do not expect much): 'python ./translate.py  --en_vocab_size=40000 --fr_vocab_size=40000 --data_dir=./train --train_dir=./train --decode' (P.S. do not run both training and execution on default configuration)
+* To run model (it was not trained enough so do not expect much): 'python ./translate.py  --en_vocab_size=40000 --fr_vocab_size=40000 --data_dir=./train --train_dir=./train --decode' (P.S. do not run both training and execution on default configuration at the same time)
 
 	
 P.S. changes include 
