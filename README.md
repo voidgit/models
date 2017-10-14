@@ -10,8 +10,8 @@ Model was trained for 1-2h. Should be trained at much more. Please check links a
 
 * If you want to prepare training set youself run https://github.com/b0noI/dialog_converter
 * On Win10 64x(provided "as is", haven't checked for safety) download following *.whl from http://www.lfd.uci.edu/~gohlke/pythonlibs/) 
-** pip install numpy-1.13.3+mkl-cp36-cp36m-win_amd64.whl
-** pip install scipy-1.0.0rc1-cp36-cp36m-win_amd64.whl
+* 'pip install numpy-1.13.3+mkl-cp36-cp36m-win_amd64.whl'
+* 'pip install scipy-1.0.0rc1-cp36-cp36m-win_amd64.whl'
 
 ----------------------
 
